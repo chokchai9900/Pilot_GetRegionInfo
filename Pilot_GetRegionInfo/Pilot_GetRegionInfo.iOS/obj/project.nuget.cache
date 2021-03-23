@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "iN2d7qshJfeOw1OoJYQ3QHB4NDw3XolYCFugbskvc3UinFtZd5K0MjgJjpzBVKxylxEPNGRZ1xhzF/JJKzi5sw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\BloodRainz\\source\\repos\\Pilot_GetRegionInfo\\Pilot_GetRegionInfo\\Pilot_GetRegionInfo.iOS\\Pilot_GetRegionInfo.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BloodRainz\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}

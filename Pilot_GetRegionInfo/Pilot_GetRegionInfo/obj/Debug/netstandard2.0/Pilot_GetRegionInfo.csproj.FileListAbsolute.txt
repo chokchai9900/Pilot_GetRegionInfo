@@ -1,0 +1,14 @@
+C:\Users\BloodRainz\source\repos\Pilot_GetRegionInfo\Pilot_GetRegionInfo\Pilot_GetRegionInfo\bin\Debug\netstandard2.0\Pilot_GetRegionInfo.deps.json
+C:\Users\BloodRainz\source\repos\Pilot_GetRegionInfo\Pilot_GetRegionInfo\Pilot_GetRegionInfo\bin\Debug\netstandard2.0\Pilot_GetRegionInfo.dll
+C:\Users\BloodRainz\source\repos\Pilot_GetRegionInfo\Pilot_GetRegionInfo\Pilot_GetRegionInfo\bin\Debug\netstandard2.0\ref\Pilot_GetRegionInfo.dll
+C:\Users\BloodRainz\source\repos\Pilot_GetRegionInfo\Pilot_GetRegionInfo\Pilot_GetRegionInfo\bin\Debug\netstandard2.0\Pilot_GetRegionInfo.pdb
+C:\Users\BloodRainz\source\repos\Pilot_GetRegionInfo\Pilot_GetRegionInfo\Pilot_GetRegionInfo\obj\Debug\netstandard2.0\Pilot_GetRegionInfo.csprojAssemblyReference.cache
+C:\Users\BloodRainz\source\repos\Pilot_GetRegionInfo\Pilot_GetRegionInfo\Pilot_GetRegionInfo\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\BloodRainz\source\repos\Pilot_GetRegionInfo\Pilot_GetRegionInfo\Pilot_GetRegionInfo\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\BloodRainz\source\repos\Pilot_GetRegionInfo\Pilot_GetRegionInfo\Pilot_GetRegionInfo\obj\Debug\netstandard2.0\Pilot_GetRegionInfo.AssemblyInfoInputs.cache
+C:\Users\BloodRainz\source\repos\Pilot_GetRegionInfo\Pilot_GetRegionInfo\Pilot_GetRegionInfo\obj\Debug\netstandard2.0\Pilot_GetRegionInfo.AssemblyInfo.cs
+C:\Users\BloodRainz\source\repos\Pilot_GetRegionInfo\Pilot_GetRegionInfo\Pilot_GetRegionInfo\obj\Debug\netstandard2.0\Pilot_GetRegionInfo.csproj.CoreCompileInputs.cache
+C:\Users\BloodRainz\source\repos\Pilot_GetRegionInfo\Pilot_GetRegionInfo\Pilot_GetRegionInfo\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\BloodRainz\source\repos\Pilot_GetRegionInfo\Pilot_GetRegionInfo\Pilot_GetRegionInfo\obj\Debug\netstandard2.0\Pilot_GetRegionInfo.dll
+C:\Users\BloodRainz\source\repos\Pilot_GetRegionInfo\Pilot_GetRegionInfo\Pilot_GetRegionInfo\obj\Debug\netstandard2.0\ref\Pilot_GetRegionInfo.dll
+C:\Users\BloodRainz\source\repos\Pilot_GetRegionInfo\Pilot_GetRegionInfo\Pilot_GetRegionInfo\obj\Debug\netstandard2.0\Pilot_GetRegionInfo.pdb
